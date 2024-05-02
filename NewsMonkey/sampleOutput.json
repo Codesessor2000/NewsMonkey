@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 1989,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "ECB names counties to host women's teams from 2025",
+        "description": "The England and Wales Cricket Board announces the eight counties that will host professional women's teams as part of a major restructure of the domestic game from 2025.",
+        "url": "https://www.bbc.co.uk/sport/cricket/68841517",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5F7F/production/_133174442_gettyimages-2148429704.jpg",
+        "publishedAt": "2024-04-17T23:01:25Z",
+        "content": "Lancashire will be one of eight counties to host a professional women's team from 2025\r\nThe England and Wales Cricket Board has announced the eight counties that will host professional women's teams … [+2172 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "'It doesn’t make sense' – MOTD pundits on Wolves 'goal'",
+        "description": "Match of the Day pundits analyse the decision to disallow a late Wolves equaliser against West Ham, with Gary Lineker suggesting that VAR is taking over - and that football needs an appeal system.",
+        "url": "https://www.bbc.co.uk/sport/av/football/68753233",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/3231/production/_133094821_p0hp9j5q.jpg",
+        "publishedAt": "2024-04-06T23:29:14Z",
+        "content": "Match of the Day pundits analyse the decision to disallow a late Wolves equaliser in their 2-1 Premier League home defeat by West Ham, with Gary Lineker suggesting that VAR is taking over - and that … [+171 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Frazer wants clearer policy on transgender athletes",
+        "description": "Culture secretary Lucy Frazer calls on sporting bodies to \"take an unambiguous position\" on transgender athletes.",
+        "url": "https://www.bbc.co.uk/sport/68825414",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/40DE/production/_133160661_hi093156313.jpg",
+        "publishedAt": "2024-04-16T11:31:03Z",
+        "content": "Lucy Frazer is the secretary of state for culture, media and sport\r\nUK culture secretary Lucy Frazer has called on sporting bodies to \"take an unambiguous position\" and ban transgender athletes compe… [+2865 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Police"
+        },
+        "author": "Zach Gray-Traverso",
+        "title": "Cricket Wireless: How to send an email to a Cricket phone number",
+        "description": "Cricket phone numbers can also be used as email addresses, which can come in handy if you need to send something longer than a text message",
+        "url": "https://www.androidpolice.com/send-email-cricket-phone-number/",
+        "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/03/cricket-wireless.jpg",
+        "publishedAt": "2024-04-11T13:15:56Z",
+        "content": "Texting is a common way to communicate with others. It's easy, and you can do it from any phone, even on a budget device. However, what if you don't have your phone with you or don't have service? Th… [+2688 chars]"
+      }
+    ]
+  }
