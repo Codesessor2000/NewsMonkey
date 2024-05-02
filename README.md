@@ -11,6 +11,7 @@ Some features of this Application:
 1) Multiple categories available: Sports, Entertainment, Health, etc.
 2) Automatically fetched the next set of news when we reach the end of the page while scrolling.
 3) Loading bar to simulate the loading effect for better user experience.
+4) Website maintained to be responsive for majority of devices.
 
 
 STEPS TO RUN THE PROJECT:
